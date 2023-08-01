@@ -1,7 +1,7 @@
 # Read me first(Baca aku dulu)
 <h1>kreta (prolog)</h1>
 this application only contains web ui using CSS, HTML, js
-for the experient exiting user or developer or vendor can download and edit code 
+for the experient exiting user or developer or vendor can download and edit code,<br/>
 this code's original author-> @Wirardi_Syahputra.
 
 <h3>Manual Instalation</h3>
