@@ -9,7 +9,7 @@ Read this to help you get this folder 👇👇
 select green button at right corner within word <p> <>code </p>
 click on it, and you'll find the compress method in zip folder.
 choose that and wait until the download is done yet.<br/> 
-or download from this link-> <a herf="https://github.com/wiragedawang2/ambarawa-kreta/archive/refs/heads/main.zip"> download here</a>
+or download from this link-> https://github.com/wiragedawang2/ambarawa-kreta/archive/refs/heads/main.zip
 
 <br/>
 <h1>FOR YOUR INFORMATION (FYI)</h1>
