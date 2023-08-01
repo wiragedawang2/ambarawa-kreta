@@ -11,7 +11,7 @@ click on it, and you'll find the compress method in zip folder.
 choose that and wait until the download is done yet.
 
 <br/>
-<h1>FOR YOU INFORMATION (FYI)</h1>
+<h1>FOR YOUR INFORMATION (FYI)</h1>
 <br/>
 -Just remind you a few input buttons changed into manual basic buttons or a herf within links,<br/>
 -js contain DOM script care fully at editing, no Comment clue inside code.
